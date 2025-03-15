@@ -1,0 +1,6 @@
+.DS_Store
+proxy_pool/docs/_build
+*.pyc
+*.log
+*/venv/*
+2025*
